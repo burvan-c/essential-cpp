@@ -1,0 +1,9 @@
+﻿  test1.cpp
+D:\learning-cpp\train1\train1\test1.cpp(8,2): error C2065: “string”: 未声明的标识符
+D:\learning-cpp\train1\train1\test1.cpp(8,9): error C2146: 语法错误: 缺少“;”(在标识符“user_name”的前面)
+D:\learning-cpp\train1\train1\test1.cpp(8,9): error C2065: “user_name”: 未声明的标识符
+D:\learning-cpp\train1\train1\test1.cpp(9,2): error C2065: “cout”: 未声明的标识符
+D:\learning-cpp\train1\train1\test1.cpp(10,2): error C2065: “cin”: 未声明的标识符
+D:\learning-cpp\train1\train1\test1.cpp(10,9): error C2065: “user_name”: 未声明的标识符
+D:\learning-cpp\train1\train1\test1.cpp(11,2): error C2065: “cout”: 未声明的标识符
+D:\learning-cpp\train1\train1\test1.cpp(11,24): error C2065: “user_name”: 未声明的标识符
